@@ -1,9 +1,6 @@
 <?php
 
-namespace Psr\Http\Factory;
-
-use Psr\Http\Message\StreamInterface;
-use Psr\Http\Message\UploadedFileInterface;
+namespace Psr\Http\Message;
 
 interface UploadedFileFactoryInterface
 {

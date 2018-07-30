@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Psr\\Http\\Factory\\": "src/"
+            "Psr\\Http\\Message\\": "src/"
         }
     },
     "extra": {
