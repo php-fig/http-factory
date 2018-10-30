@@ -5,7 +5,7 @@ This repository holds all interfaces related to [PSR-17 (HTTP Message Factories)
 Please refer to the specification for a description.
 
 You can find implementations of the specification by looking for packages providing the 
-[psr/http-factory-implementation](https://packagist.org/providers/psr/psr/http-factory-implementation) virtual package.
+[psr/http-factory-implementation](https://packagist.org/providers/psr/http-factory-implementation) virtual package.
 ª
 
 [psr-17]: https://www.php-fig.org/psr/psr-17/
