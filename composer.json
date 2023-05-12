@@ -1,6 +1,6 @@
 {
     "name": "psr/http-factory",
-    "description": "Common interfaces for PSR-7 HTTP message factories",
+    "description": "PSR-17: Common interfaces for PSR-7 HTTP message factories",
     "keywords": [
         "psr",
         "psr-7",
